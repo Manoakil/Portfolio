@@ -3,7 +3,7 @@ import React from 'react';
 export default function About() {
   const details = [
     { label: 'Date of Birth',     value: '15 June 2004' },
-    { label: 'Spoken Languages',  value: 'English, French, German' },
+    { label: 'Spoken Languages',  value: 'Tamil, English' },
     { label: 'Interests',         value: 'Music, Podcasts' }
   ];
 
